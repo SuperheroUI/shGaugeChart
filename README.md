@@ -1,4 +1,4 @@
-# SuperheroUI [![Build Status](https://travis-ci.org/SuperheroUI/shGaugeChart.svg?branch=master)](https://travis-ci.org/SuperheroUI/shGaugeChart) [![Coverage Status](https://coveralls.io/repos/github/SuperheroUI/shGaugeChart/badge.svg)](https://coveralls.io/github/SuperheroUI/shGaugeChart) [![npm version](https://badge.fury.io/js/sh-input-text.svg)](https://badge.fury.io/js/sh-gauge-chart)
+# SuperheroUI [![Build Status](https://travis-ci.org/SuperheroUI/shGaugeChart.svg?branch=master)](https://travis-ci.org/SuperheroUI/shGaugeChart) [![Coverage Status](https://coveralls.io/repos/github/SuperheroUI/shGaugeChart/badge.svg)](https://coveralls.io/github/SuperheroUI/shGaugeChart) [![npm version](https://badge.fury.io/js/sh-gauge-chart.svg)](https://badge.fury.io/js/sh-gauge-chart)
 InsideSales.com React UI
 
 ## ShGaugeChart
