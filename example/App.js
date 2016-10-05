@@ -18,13 +18,13 @@ class App extends React.Component {
   }
 
   render() {
-    let kill = 0;
+    let delaySpeed = 1;
     return (
       <div className="test-box">
         <button onClick={this.handleOneChange}>update value</button>
         <br/><br/>
         <div className="chart-container">
-          <GaugeChart value={this.state.value} delay={kill}>{this.state.value}</GaugeChart>
+          <GaugeChart value={this.state.value} delay={delaySpeed}>{this.state.value}</GaugeChart>
         </div>
       </div>
     )
