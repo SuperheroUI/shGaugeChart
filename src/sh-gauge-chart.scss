@@ -1,0 +1,34 @@
+@import "../node_modules/sh-core/src/_base";
+
+.sh-gauge-chart {
+    position: relative;
+    display: table;
+    height: 100%;
+    width: 100%;
+
+    svg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+    }
+
+    .sh-gauge-content {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+
+    rect {
+        fill: $color-neural;
+        fill-opacity: 0;
+
+        transition: fill-opacity $transition-fast;
+
+        &.fill {
+            fill-opacity: .9;
+        }
+    }
+}

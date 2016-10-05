@@ -2,7 +2,7 @@ var path = require('path');
 
 module.exports = {
     entry: {
-        'sh-input-text': './src/sh-input-text.js',
+        'sh-gauge-chart': './src/sh-gauge-chart.js',
     },
     output: {
         path: './bin',
